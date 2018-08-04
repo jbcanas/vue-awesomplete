@@ -1,5 +1,5 @@
-<template lang="jade">
-    input(type='text', v-model="internalValue")
+<template>
+    <input type="text" v-model="internalValue">
 </template>
 
 <script>
